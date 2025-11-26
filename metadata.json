@@ -1,0 +1,7 @@
+{
+  "name": "klin checkpoint",
+  "description": "High-speed dual-shoe scanning prototype for size validation using Gemini Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
